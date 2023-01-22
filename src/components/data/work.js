@@ -1,34 +1,25 @@
 export const WorkData = [
     {
-        company: "Webdéveloppeur, freelance" ,
-        designation: "Webdéveloppeur",
-        dateJoining: "2019",
-        dateEnd: "2022",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537338.png",
-        work:"Sur demandes, Webdéveloppeur et conseil IT en freelance, notamment en Suisse",
+        company: "Academy",
+        designation: "Trainee Software Engineer",
+        dateJoining: "Aug 2022",
+        dateEnd: "Feb 2023",
+        companyLogo:"",
+        work:"Developed and deployed full-stack applications using CI/CD workflows, TDD and version control with back-end/front-end databases. Collaborated on numerous team projects to build dynamic PERN apps using git and GitHub, completing tasks and reviewing code. Cultivated leadership skills through a course focused on emotional intelligence, effective team dynamics and delivering feedback"
     },
     {
-        company: "Certificat de Webdéveloppeur - Becode" ,
-        designation: "W",
-        dateJoining: "21.05.2022",
-        dateEnd: "06.12.2019",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Certificat Obtenu auprès de becode.org au Pôle image de Liège, avec un stage chew Mwesto Labs - Liège"
+        company: "Public Health Scotland (NHS)",
+        designation: "Information Analyst",
+        dateJoining: "Aug 2021",
+        dateEnd: "Oct 2022",
+        companyLogo:"",
+        work:"- Produced automated reports and ad-hoc analyses using R (data wrangling and visualisation with tidyverse, parameterised and interactive reports with RMarkdown, geospatial analysis with leaflet), SQL, Tableau and Excel. Liaised with clinicians, academics and project managers to track key performance metrics"
     },
     {
-        company: "AESI Sciences Humaines - HeCh" ,
-        designation: "W",
-        dateJoining: "15.09.2020",
-        dateEnd: "15.08.2022",
+        company: "Indepen-dance",
+        designation: "Monitoring and Evaluation Intern",
+        dateJoining: "2020",
+        dateEnd: "2021",
         companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"B2 Enseignant en Sciences Humaines, arrêté pour raisons médicales et reprise de l'activité d'informaticien"
-    },
-    {
-        company: "Intérim" ,
-        designation: "W",
-        dateJoining: "2016",
-        dateEnd: "Present",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Horéca, Ouvrier de production, Caissier, Technicien Polyvalent en constructions modulaires, Magasinier, Gardien de tournage, Runner Cinéma, Livreur de Matelas,..."
-    }
-]
+        work:"- Quantitative and qualitative data collection, analysis and presentation (Zoom attendance data, Youtube analytics, surveys, focus groups, demographic information). Assisted with funding applications showing impact data. Developed an evaluation plan to streamline the collection and analysis of impact data"
+    }]

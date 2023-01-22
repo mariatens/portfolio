@@ -9,7 +9,7 @@ function ProjectCard({ project }) {
           {project.demo && (
             <a className="project-link" href={project.demo}>
               <div className="link-button">
-                <i class="fi-rr-globe"></i>Demo
+                <i class="fi-rr-globe"></i>Demo 
               </div>
             </a>
             )}
@@ -28,7 +28,7 @@ function ProjectCard({ project }) {
           })}
         </div>
       </div>
-      <img src={project.image} className="project-photo" />
+      <img alt = "project" src={project.image} className="project-photo" />
     </div>
   );
 }

@@ -3,7 +3,7 @@ export const SkillsData = [
     type: "Front-End",
     list: [
       {
-        name: "ReactJS",
+        name: "React",
         icon: <i class="devicon-react-original colored"></i>
         },
       {
@@ -14,27 +14,23 @@ export const SkillsData = [
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
       },
-      {
-        name: "TailwindCSS",
-        icon: <i class="devicon-tailwindcss-plain colored"></i>
-      },
     ],
   },
-  {
-    type: "Other Skills",
-    list: [
-      {
-        name: "Firebase",
-        icon: <i class="devicon-firebase-plain colored"></i>
-      },
-      {
-        name: "Bootstrap",
-        icon: <i class="devicon-bootstrap-plain colored"></i>
-      },
-      {
-        name: "Azure",
-        icon: <i class="devicon-azure-plain colored"></i>
-      },
-    ],
-  },
+  // {
+    // type: "Back-End",
+    // list: [
+    //   {
+    //     name: "Firebase",
+    //     icon: <i class="devicon-firebase-plain colored"></i>
+    //   },
+    //   {
+    //     name: "Bootstrap",
+    //     icon: <i class="devicon-bootstrap-plain colored"></i>
+    //   },
+    //   {
+    //     name: "Azure",
+    //     icon: <i class="devicon-azure-plain colored"></i>
+    //   },
+//     ],
+//   },
 ];
