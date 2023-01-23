@@ -4,8 +4,8 @@ export const WorkData = [
         designation: "Trainee Software Engineer",
         dateJoining: "Aug 2022",
         dateEnd: "Feb 2023",
-        companyLogo:"../../assets/academy.jpeg",
-        work:"- Developed and deployed full-stack applications using CI/CD workflows, TDD and version control with back-end/front-end databases. \n -Collaborated on numerous team projects to build dynamic PERN apps using git and GitHub, completing tasks and reviewing code.  \n Cultivated leadership skills through a course focused on emotional intelligence, effective team dynamics and delivering feedback"
+        companyLogo:require("../../assets/academy.jpeg"),
+        work:"- Developed and deployed full-stack applications using CI/CD workflows, TDD and version control with back-end/front-end databases. \n -Collaborated on numerous team projects to build dynamic PERN apps using git and GitHub, completing tasks and reviewing code.  \n-  Cultivated leadership skills through a course focused on emotional intelligence, effective team dynamics and delivering feedback"
     },
     {
         company: "Public Health Scotland (NHS)",
@@ -18,8 +18,8 @@ export const WorkData = [
     {
         company: "Indepen-dance",
         designation: "Monitoring and Evaluation Intern",
-        dateJoining: "2020",
-        dateEnd: "2021",
+        dateJoining: "Nov 2020",
+        dateEnd: "Jun 2021",
         companyLogo:"https://www.indepen-dance.org.uk/wp-content/uploads/2020/02/indepen-dance-logo-main-w-strap.png",
-        work:"- Quantitative and qualitative data collection, analysis and presentation (Zoom attendance data, Youtube analytics, surveys, focus groups, demographic information).  \n -Assisted with funding applications showing impact data.  \n - Developed an evaluation plan to streamline the collection and analysis of impact data"
+        work:"- Quantitative and qualitative data collection, analysis and presentation (Zoom attendance data, Youtube analytics, surveys, focus groups, demographic information).  \n - Assisted with funding applications showing impact data.  \n - Developed an evaluation plan to streamline the collection and analysis of impact data"
     }]

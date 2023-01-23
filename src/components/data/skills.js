@@ -20,7 +20,7 @@ export const SkillsData = [
       },
       {
         name: "CSS",
-        icon: <i class= "devicon-css-plain colored"></i>
+        icon: <i class= "devicon-css3-plain colored"></i>
       }
     ],
   },
@@ -29,7 +29,8 @@ export const SkillsData = [
     list: [
       {
         name: "Express",
-        icon: <i class="devicon-expressjs-plain colored"></i>
+        icon: <i class="devicon-express-original colored"></i>
+      
       },
       {
         name: "Node.js",
