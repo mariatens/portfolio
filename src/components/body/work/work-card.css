@@ -1,11 +1,16 @@
 .work-card {
     padding: 8px;
-    width: 45%;
     margin-top: 16px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: row-reverse;
+}
+.company-name{
+    font-weight: bold;
+}
+.work-desc{
+    white-space:pre-wrap;
 }
 .work-logo {
     height: 80px;

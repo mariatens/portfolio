@@ -14,23 +14,54 @@ export const SkillsData = [
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
       },
+      {
+        name: "Typescript",
+        icon: <i class= "devicon-typescript-plain colored"></i>
+      },
+      {
+        name: "CSS",
+        icon: <i class= "devicon-css3-plain colored"></i>
+      }
     ],
   },
-  // {
-    // type: "Back-End",
-    // list: [
-    //   {
-    //     name: "Firebase",
-    //     icon: <i class="devicon-firebase-plain colored"></i>
-    //   },
-    //   {
-    //     name: "Bootstrap",
-    //     icon: <i class="devicon-bootstrap-plain colored"></i>
-    //   },
-    //   {
-    //     name: "Azure",
-    //     icon: <i class="devicon-azure-plain colored"></i>
-    //   },
-//     ],
-//   },
-];
+  {
+    type: "Back-End",
+    list: [
+      {
+        name: "Express",
+        icon: <i class="devicon-express-original colored"></i>
+      
+      },
+      {
+        name: "Node.js",
+        icon: <i class="devicon-nodejs-plain colored"></i>
+      },
+      {
+        name: "PostgreSQL",
+        icon: <i class="devicon-postgresql-plain colored"></i>
+      },
+      {
+        name: "Oracle",
+        icon: <i class="devicon-oracle-plain colored"></i>
+      },
+    ],
+  },
+  {
+    type: "Other", 
+    list: [
+      {
+        name: "Git", 
+        icon: <i class="devicon-git-plain colored"></i>
+      },
+      {
+        name: "R", 
+        icon: <i class="devicon-r-plain colored"></i>
+      },
+      
+      {
+        name: "Python", 
+        icon: <i class="devicon-python-plain colored"></i>
+      }
+    ]
+  }
+]
