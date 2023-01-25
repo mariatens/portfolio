@@ -12,7 +12,7 @@ export const ProjectData=[
         id:2,
         title:"Paste Bin",
         about: "Paste bin with functionality to comment on pastes and delete pastes/comments",
-        tags:["React", "Typescript", "Node", "Express"],
+        tags:["React", "Typescript", "Node", "Express", "PostgreSQL"],
         demo:"https://github.com/ThantZinPhyo-OP/Portfolio-Website",
         github:"https://github.com/DidierOsindero/paste-bin-frontend",
         image:require("../../assets/pastebin.png")
@@ -21,7 +21,7 @@ export const ProjectData=[
         id:3,
         title:"To do app",
         about: "App with functionality to add, delete, edit and mark To Dos as complete",
-        tags:["React", "Typescript", "Node", "Express"],
+        tags:["React", "Typescript", "Node", "Express", "PostgreSQL"],
         demo:"https://mariatens-todo.netlify.app/",
         github:"https://github.com/mariatens/todo-front-end",
         image:require("../../assets/todoapp.png")
