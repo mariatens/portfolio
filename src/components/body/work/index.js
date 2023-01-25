@@ -1,8 +1,8 @@
-import React from "react";
-import "./work.css";
-import Separator from "../../common/separator";
-import {WorkData} from "../../data/work";
-import WorkCard from "./work-card";
+import React from 'react';
+import './work.css';
+import Separator from '../../common/separator';
+import { WorkData } from '../../data/work';
+import WorkCard from './work-card';
 function Work() {
   const data = WorkData;
   return (
@@ -15,7 +15,7 @@ function Work() {
         })}
       </div>
     </div>
-  );  
+  );
 }
 
 export default Work;
