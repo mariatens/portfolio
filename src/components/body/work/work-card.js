@@ -1,9 +1,13 @@
-import React from "react";
-import "./work-card.css";
-function WorkCard ({ item }) {
+import React from 'react';
+import './work-card.css';
+function WorkCard({ item }) {
   return (
     <div className="work-card">
-      <img alt = {`${item.company} logo`}src={item.companyLogo}className="work-logo" />
+      <img
+        alt={`${item.company} logo`}
+        src={item.companyLogo}
+        className="work-logo"
+      />
       <div className="work-info">
         <label className="company-name">{item.company}</label>
         <div className="work-dates">
