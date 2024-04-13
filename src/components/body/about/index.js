@@ -8,18 +8,7 @@ function About() {
         <div className="about-info">
           Hi,
           <br /> <span className="info-name">I'm María Ten</span>.
-          <br /> Software Engineer
-          <p>
-            I am an enthusiastic, perseverant Software Engineer Trainee at
-            Academy.
-            <br />
-            I started my career in tech as an Information Analyst for Public
-            Health Scotland after graduating with a First from the University of
-            Glasgow, where I learnt about data analysis, statistics and coding
-            in R.
-            <br />I am passionate about tech for social good and continuous
-            learning.
-          </p>
+          <br /> Passionate about technology and social good
         </div>
         <div className="about-photo">
           <img
