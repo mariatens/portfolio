@@ -1,5 +1,35 @@
 export const SkillsData = [
   {
+    type: 'Data Analysis',
+    list: [
+      {
+        name: 'R',
+        icon: <i class="devicon-r-plain colored"></i>,
+      },
+
+      {
+        name: 'Python',
+        icon: <i class="devicon-python-plain colored"></i>,
+      },
+      {
+        name: 'SQL',
+        icon: <i class="devicon-python-plain colored"></i>,
+      },
+      {
+        name: 'Git',
+        icon: <i class="devicon-git-plain colored"></i>,
+      },
+      {
+        name: 'Excel',
+        icon: <i class="devicon-python-plain colored"></i>,
+      },
+      {
+        name: 'Tableau',
+        icon: <i class="devicon-python-plain colored"></i>,
+      },
+    ],
+  },
+  {
     type: 'Front-End',
     list: [
       {
@@ -34,32 +64,6 @@ export const SkillsData = [
       {
         name: 'Node.js',
         icon: <i class="devicon-nodejs-plain colored"></i>,
-      },
-      {
-        name: 'PostgreSQL',
-        icon: <i class="devicon-postgresql-plain colored"></i>,
-      },
-      {
-        name: 'Oracle',
-        icon: <i class="devicon-oracle-plain colored"></i>,
-      },
-    ],
-  },
-  {
-    type: 'Other',
-    list: [
-      {
-        name: 'Git',
-        icon: <i class="devicon-git-plain colored"></i>,
-      },
-      {
-        name: 'R',
-        icon: <i class="devicon-r-plain colored"></i>,
-      },
-
-      {
-        name: 'Python',
-        icon: <i class="devicon-python-plain colored"></i>,
       },
     ],
   },

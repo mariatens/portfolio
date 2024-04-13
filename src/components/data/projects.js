@@ -1,7 +1,7 @@
 export const ProjectData = [
   {
     id: 0,
-    title: 'Chronoline - In Progress', 
+    title: 'Chronoline', 
     about: 'Chronoline is a game where the player needs to place a card in the correct chronological position in a timeline of historic events',
     tags: ['React', 'TypeScript', 'Jest', 'HTML', 'CSS'],
     demo: 'https://chronoline-game.netlify.app/',

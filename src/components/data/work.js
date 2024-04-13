@@ -1,11 +1,19 @@
 export const WorkData = [
   {
-    company: 'Academy',
-    designation: 'Trainee Software Engineer',
-    dateJoining: 'Aug 2022',
-    dateEnd: 'Feb 2023',
-    companyLogo: require('../../assets/academy.jpeg'),
-    work: '- Developed and deployed full-stack applications using CI/CD workflows, TDD and version control with back-end/front-end databases. \n -Collaborated on numerous team projects to build dynamic PERN apps using git and GitHub, completing tasks and reviewing code.  \n-  Cultivated leadership skills through a course focused on emotional intelligence, effective team dynamics and delivering feedback',
+    company: 'IAG: Vueling',
+    designation: 'Data Analyst',
+    dateJoining: 'Nov 2023',
+    dateEnd: 'May 2024',
+    companyLogo: 'https://pbs.twimg.com/card_img/1775657233696575489/FsQaV4S4?format=jpg&name=medium',
+    work: 'Developed ETLs with Python and R to extract data from APIs, transform it, and visualize it in Tableau, reducing time preparing daily and weekly presentations by 50%. -Streamlined data exploration and visualization by leveraging Salesforce API (SOQL) through Tableau, significantly reducing elaboration time.-Addressed diverse data requests and actively monitored KPIs across various customer care departments, including social media, contact centers, quality auditing, and disruption coordination.'
+  },
+  {
+    company: 'IAG: IAG Loyalty',
+    designation: 'Associate Software Engineer',
+    dateJoining: 'Mar 2023',
+    dateEnd: 'Nov 2023',
+    companyLogo: 'https://www.iagloyalty.com/hubfs/raw_assets/public/IAGL/images/iagLoyalty-logo-150.svg',
+    work: '- Contributed to the development of the rewards web app using React, Typescript, Express.js. - Consistently engaged in diverse areas such as Google Analytics, A/B testing (Devcycle), content management (Contentful), styling of the UI (Storybook), Datadog, backend tickets, etc. - Actively participated in pair programming, reviewing code, and conducting code demos and presentations in sprint reviews.'
   },
   {
     company: 'Public Health Scotland (NHS)',
@@ -17,7 +25,7 @@ export const WorkData = [
   },
   {
     company: 'Indepen-dance',
-    designation: 'Monitoring and Evaluation Intern',
+    designation: 'Monitoring and Evaluation Intern & Freelancer',
     dateJoining: 'Nov 2020',
     dateEnd: 'Jun 2021',
     companyLogo:
