@@ -13,7 +13,8 @@ export const SkillsData = [
       },
       {
         name: 'SQL',
-        icon: <i class="devicon-python-plain colored"></i>,
+        icon: <i class="devicon-azuresqldatabase-plain"></i>
+          
       },
       {
         name: 'Git',
