@@ -14,7 +14,7 @@ export const WorkData = [
     dateJoining: 'Mar 2023',
     dateEnd: 'Nov 2023',
     companyLogo:
-      'https://www.iagloyalty.com/hubfs/raw_assets/public/IAGL/images/iagLoyalty-logo-150.svg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhAjjaUTSWqlkBzqGOzitrhnW3h1rS-3S6TBy36pUDA&s',
     work: '- Contributed to the development of the rewards web app using React, Typescript, Express.js. \n - Consistently engaged in diverse areas such as Google Analytics, A/B testing (Devcycle), content management (Contentful), styling of the UI (Storybook), Datadog, backend tickets, etc. \n - Actively participated in pair programming, reviewing code, and conducting code demos and presentations in sprint reviews.',
   },
   {
