@@ -1,13 +1,13 @@
 export const ProjectData = [
   {
     id: 0,
-    title: 'Chronoline', 
-    about: 'Chronoline is a game where the player needs to place a card in the correct chronological position in a timeline of historic events',
+    title: 'Chronoline',
+    about:
+      'Chronoline is a game where the player needs to place a card in the correct chronological position in a timeline of historic events',
     tags: ['React', 'TypeScript', 'Jest', 'HTML', 'CSS'],
     demo: 'https://chronoline-game.netlify.app/',
     github: 'https://github.com/lsimonar/chronoline',
-    image: require('../../assets/chronoline.png')
-
+    image: require('../../assets/chronoline.png'),
   },
   {
     id: 1,
@@ -19,7 +19,7 @@ export const ProjectData = [
     github: 'https://github.com/mariatens/tv-shows-project',
     image: require('../../assets/tvshows.jpeg'),
   },
-  {
+  /* {
     id: 2,
     title: 'Paste Bin',
     about:
@@ -38,5 +38,5 @@ export const ProjectData = [
     demo: 'https://mariatens-todo.netlify.app/',
     github: 'https://github.com/mariatens/todo-front-end',
     image: require('../../assets/todoapp.png'),
-  },
+  }, */
 ];
