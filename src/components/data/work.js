@@ -5,7 +5,7 @@ export const WorkData = [
     dateJoining: 'Nov 2023',
     dateEnd: 'May 2024',
     companyLogo:
-      'https://pbs.twimg.com/card_img/1775657233696575489/FsQaV4S4?format=jpg&name=medium',
+      'https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Vueling.svg',
     work: 'Developed ETLs with Python and R to extract data from APIs, transform it, and visualize it in Tableau, reducing time preparing daily and weekly presentations by 50%. \n -Streamlined data exploration and visualization by leveraging Salesforce API (SOQL) through Tableau, significantly reducing elaboration time.\n -Addressed diverse data requests and actively monitored KPIs across various customer care departments, including social media, contact centers, quality auditing, and disruption coordination.',
   },
   {
