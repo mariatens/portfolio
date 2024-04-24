@@ -6,7 +6,7 @@ export const WorkData = [
     dateEnd: 'May 2024',
     companyLogo:
       'https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Vueling.svg',
-    work: 'Developed ETLs with Python and R to extract data from APIs, transform it, and visualize it in Tableau, reducing time preparing daily and weekly presentations by 50%. \n -Streamlined data exploration and visualization by leveraging Salesforce API (SOQL) through Tableau, significantly reducing elaboration time.\n -Addressed diverse data requests and actively monitored KPIs across various customer care departments, including social media, contact centers, quality auditing, and disruption coordination.',
+    work: '-Extracted data from APIs using Python and R to transform it and visualise it, which reduced time preparing daily presentations by 50%\n -Streamlined data exploration and visualization by leveraging Salesforce API (SOQL) through Tableau, significantly reducing elaboration time.\n -Addressed diverse data requests and actively monitored KPIs across various customer care departments, including social media, contact centers, quality auditing, and disruption coordination.',
   },
   {
     company: 'IAG: IAG Loyalty',
@@ -23,7 +23,7 @@ export const WorkData = [
     dateJoining: 'Aug 2021',
     dateEnd: 'Oct 2022',
     companyLogo: 'https://publichealthscotland.scot/images/phs-logo.png',
-    work: '- Produced automated reports and ad-hoc analyses using R (data wrangling and visualisation with tidyverse, parameterised and interactive reports with RMarkdown, geospatial analysis with leaflet), SQL, Tableau and Excel.  \n - Liaised with clinicians, academics and project managers to track key performance metrics',
+    work: '- Produced automated reports and ad-hoc analyses using R (data wrangling and visualisation with tidyverse, parameterised and interactive reports with RMarkdown, geospatial analysis with leaflet), SQL, Tableau and Excel.  \n - Liaised with clinicians, academics and project managers to track key performance metrics.',
   },
   {
     company: 'Indepen-dance',
@@ -32,6 +32,6 @@ export const WorkData = [
     dateEnd: 'Jun 2021',
     companyLogo:
       'https://www.indepen-dance.org.uk/wp-content/uploads/2020/02/indepen-dance-logo-main-w-strap.png',
-    work: '- Quantitative and qualitative data collection, analysis and presentation (Zoom attendance data, Youtube analytics, surveys, focus groups, demographic information).  \n - Assisted with funding applications showing impact data.  \n - Developed an evaluation plan to streamline the collection and analysis of impact data',
+    work: '- Quantitative and qualitative data collection, analysis and presentation (Zoom attendance data, Youtube analytics, surveys, focus groups, demographic information).  \n - Assisted with funding applications showing impact data.  \n - Developed an evaluation plan to streamline the collection and analysis of impact data.',
   },
 ];
